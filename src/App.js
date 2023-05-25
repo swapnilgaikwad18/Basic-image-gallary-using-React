@@ -35,7 +35,7 @@ function Operation(){
        <div>
         <img src="https://picsum.photos/id/267/300/300"></img>
        </div>
-       <div className="m-2">
+       <div className="m-4">
         <div className="d-flex flex-raw">
           <h2 className="mx-2">{counterForLike}</h2>
           <h2 className="mx-4">{counterForDislike}</h2>  
